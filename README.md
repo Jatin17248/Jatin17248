@@ -5,13 +5,11 @@
 
 
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://omwebsolutions.000webhostapp.com/portfolio/](https://omwebsolutions.000webhostapp.com/portfolio/)
+- 👨‍💻 All of my projects are available at [https://jatin.omsoftwares.in](https://jatin.omsoftwares.in)
 
 - 📫 How to reach me **Jatinsood242@gmail.com**
-
-- 📄 Know about my experiences [https://omwebsolutions.000webhostapp.com/portfolio/my_resume.pdf](https://omwebsolutions.000webhostapp.com/portfolio/my_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
