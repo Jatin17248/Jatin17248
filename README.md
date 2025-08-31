@@ -1,34 +1,62 @@
-<h1 align="center">Hi 👋, I'm Jatin Sood</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<!-- Profile | Github Jatin17248/README.md -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin17248&label=Profile%20views&color=0e75b6&style=flat" alt="jatin17248" /> </p>
+<!-- Github Profile Header -->
+<a href="http://www.github.com/Jatin17248">
+  <img align="center" src="https://github.com/Jatin17248/Jatin17248/blob/master/.github/workflows/images/header.svg" alt="GitHub header" width="100%"/>
+</a>
 
+<!-- Typing Animation with Link to Portfolio -->
+<a href="http://www.github.com/Jatin17248">
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=4000&pause=1000&color=50CCA0&center=true&vCenter=true&random=false&width=435&lines=I'm,+Jatin+Sood;Web+Developer!;Competitive+Programmer!;Web+Designer!;I code algorithms!!" alt="Human" />
+  <!-- <img width="100%" src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=4000&pause=1000&color=50CCA0&center=true&vCenter=true&random=false&width=435&lines=I'm,+Gautam+Ankoji;Astrophile!;Competitive+Programmer!;Graphic%2FUI%2FUX+Designer!;I+Love+To+Code!" alt="Human" /> -->
+</a>
+<br>
 
+ 
 
-- 🌱 I’m currently learning **Next JS**
+<!-- Github Profile Visits Counter -->
+<a href="http://www.github.com/Jatin17248">
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Jatin17248&label=+PROFILE+VIEWS+&color=2e9876"/>
+  </div>
+</a>
 
-- 👨‍💻 All of my projects are available at [https://jatin.omsoftwares.in](https://jatin.omsoftwares.in)
+<!-- Introduction and Information -->
+⦿ &#8287;Hi, I’m **Jatin Sood**<br>
+⦿ &#8287;I have expertise in:
 
-- 📫 How to reach me **Jatinsood242@gmail.com**
+<div align="center">
+  
+  **`Astrophysics Research`** | **`Full Cycle Development`** | **`Algorithmic Optimization`** | **`Red Teaming`** | **`Computer Graphics`** | **`Game Engineering`**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ja.tingupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ja.tingupta" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<!--
-**Jatin17248/Jatin17248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⦿ &#8287; I architect and develop **distributed backend systems** and design **scalable architectures** for optimal performance.<br>
+⦿ &#8287; I specialize in developing **clean**, **functional UIs** that deliver an exceptional user experience and aesthetic appeal.<br>
+⦿ &#8287; I am interested in collaborating on **distributed systems**, **core backend development**, and **deep learning** initiatives.<br>
+⦿ &#8287; I intend to make my repositories **open source** in 2026 to contribute to the community.<br>
+⦿ &#8287; For inquiries, connect with me at ⟶ [**telegram/Jatin17248**](https://t.me/herogautam)<br>
 
-Here are some ideas to get you started:
+<!-- Line Break -->
+<a href="http://www.github.com/Jatin17248">
+  <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=63ffd1&height=1.5" width="100%"/></p>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Github Stats -->
+| **STATS** | **STREAK** |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="http://www.github.com/Jatin17248"><img alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jatin17248&show_icons=true&hide=prs,stars&count_private=true&title_color=63ffd1&text_color=ffffff&icon_color=63ffd1&bg_color=0d1117&hide_border=true&rank_icon=github" width="100%"/></a> | <a href="http://www.github.com/Jatin17248"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin17248&stroke=ffffff&background=0d1117&ring=63ffd1&fire=63ffd1&currStreakNum=ffffff&currStreakLabel=63ffd1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Jatin's Streak" width="100%"/></a> |
+
+<!-- Line Break -->
+<a href="http://www.github.com/Jatin17248">
+  <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=63ffd1&height=1.5" width="100%"/></p>
+</a>
+
+<!-- Github Profile Footer -->
+<a href="http://www.github.com/Jatin17248">
+  <img src="https://github.com/Jatin17248/Jatin17248/blob/master/.github/workflows/images/footer.svg" alt="GitHub footer" width="100%"/>
+</a>
+
+<!-- Copyright © 2022 - 2024 | Jatin17248 -->
+
+<!-- ⦿ &#8287;Tech-savvy **Developer & Designer** | Crafting Sleek **Websites & Apps for Android/iOS**<br> -->
