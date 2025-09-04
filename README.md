@@ -59,4 +59,4 @@
 </a>
 
 <!-- Copyright -->
-<p align="center">© 2022 - 2025 | Jatin Sood</p>
+<p align="center">© 2025 | Jatin Sood</p>
