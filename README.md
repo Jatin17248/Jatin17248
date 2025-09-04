@@ -58,5 +58,4 @@
   <img src="https://github.com/Jatin17248/Jatin17248/blob/main/.github/workflows/images/footer.svg" alt="GitHub footer" width="100%"/>
 </a>
 
-<!-- Copyright -->
-<p align="center">© 2025 | Jatin Sood</p>
+ 
